@@ -1,0 +1,8 @@
+E:\GitRepository\StackOverflow.Wcf\StackOverflow.Wcf.WcfServiceHostManagers\bin\Debug\StackOverflow.Wcf.WcfServiceHostManagers.exe.config
+E:\GitRepository\StackOverflow.Wcf\StackOverflow.Wcf.WcfServiceHostManagers\bin\Debug\StackOverflow.Wcf.WcfServiceHostManagers.exe
+E:\GitRepository\StackOverflow.Wcf\StackOverflow.Wcf.WcfServiceHostManagers\bin\Debug\StackOverflow.Wcf.WcfServiceHostManagers.pdb
+E:\GitRepository\StackOverflow.Wcf\StackOverflow.Wcf.WcfServiceHostManagers\bin\Debug\StackOverflow.Wcf.Services.dll
+E:\GitRepository\StackOverflow.Wcf\StackOverflow.Wcf.WcfServiceHostManagers\bin\Debug\StackOverflow.Wcf.Services.pdb
+E:\GitRepository\StackOverflow.Wcf\StackOverflow.Wcf.WcfServiceHostManagers\obj\Debug\StackOverflow.Wcf.WcfServiceHostManagers.csprojResolveAssemblyReference.cache
+E:\GitRepository\StackOverflow.Wcf\StackOverflow.Wcf.WcfServiceHostManagers\obj\Debug\StackOverflow.Wcf.WcfServiceHostManagers.exe
+E:\GitRepository\StackOverflow.Wcf\StackOverflow.Wcf.WcfServiceHostManagers\obj\Debug\StackOverflow.Wcf.WcfServiceHostManagers.pdb

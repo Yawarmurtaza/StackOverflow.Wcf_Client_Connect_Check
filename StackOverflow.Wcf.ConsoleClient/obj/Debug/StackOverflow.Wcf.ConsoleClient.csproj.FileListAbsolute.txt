@@ -1,0 +1,8 @@
+E:\GitRepository\StackOverflow.Wcf\StackOverflow.Wcf.ConsoleClient\bin\Debug\StackOverflow.Wcf.ConsoleClient.exe.config
+E:\GitRepository\StackOverflow.Wcf\StackOverflow.Wcf.ConsoleClient\bin\Debug\StackOverflow.Wcf.ConsoleClient.exe
+E:\GitRepository\StackOverflow.Wcf\StackOverflow.Wcf.ConsoleClient\bin\Debug\StackOverflow.Wcf.ConsoleClient.pdb
+E:\GitRepository\StackOverflow.Wcf\StackOverflow.Wcf.ConsoleClient\bin\Debug\StackOverflow.Wcf.Services.dll
+E:\GitRepository\StackOverflow.Wcf\StackOverflow.Wcf.ConsoleClient\bin\Debug\StackOverflow.Wcf.Services.pdb
+E:\GitRepository\StackOverflow.Wcf\StackOverflow.Wcf.ConsoleClient\obj\Debug\StackOverflow.Wcf.ConsoleClient.csprojResolveAssemblyReference.cache
+E:\GitRepository\StackOverflow.Wcf\StackOverflow.Wcf.ConsoleClient\obj\Debug\StackOverflow.Wcf.ConsoleClient.exe
+E:\GitRepository\StackOverflow.Wcf\StackOverflow.Wcf.ConsoleClient\obj\Debug\StackOverflow.Wcf.ConsoleClient.pdb

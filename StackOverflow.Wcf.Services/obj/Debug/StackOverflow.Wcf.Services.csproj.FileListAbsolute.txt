@@ -1,0 +1,5 @@
+E:\GitRepository\StackOverflow.Wcf\StackOverflow.Wcf.Services\obj\Debug\StackOverflow.Wcf.Services.csprojResolveAssemblyReference.cache
+E:\GitRepository\StackOverflow.Wcf\StackOverflow.Wcf.Services\bin\Debug\StackOverflow.Wcf.Services.dll
+E:\GitRepository\StackOverflow.Wcf\StackOverflow.Wcf.Services\bin\Debug\StackOverflow.Wcf.Services.pdb
+E:\GitRepository\StackOverflow.Wcf\StackOverflow.Wcf.Services\obj\Debug\StackOverflow.Wcf.Services.dll
+E:\GitRepository\StackOverflow.Wcf\StackOverflow.Wcf.Services\obj\Debug\StackOverflow.Wcf.Services.pdb
